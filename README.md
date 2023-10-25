@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @shadow3203
+- 👋 Hi, I’m AK Sanjeev Karthik
 - 👀 I’m interested in software developer.
-- 🌱 I’m currently learning front-end.
+- 🌱 I’m currently learning UI/UX
 - 📫 How to reach me email:sanjeevkarthik323@gmail.com
 
 <!---
